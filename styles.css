@@ -1,1 +1,19 @@
 
+header {
+  text-algin: center;
+  font-family: Verdana;
+  font-size: 80px;
+  color: green;
+}
+
+.group {
+  display: flex;
+  flex-direction: column;
+}
+
+.item {
+  flex: 1;
+  margin: 20px;
+}
+
+    
