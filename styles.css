@@ -1,8 +1,8 @@
 
 header {
-  text-algin: center;
+  text-align: center;
   font-family: Verdana;
-  font-size: 80px;
+  font-size: 40px;
   color: green;
 }
 
@@ -17,7 +17,8 @@ header {
 }
 
 p {
- font-size: 14px;   
+ font-size: 14px;
+ font-family: Optima;
 }
 
 @media all and (min-width: 800px) {
