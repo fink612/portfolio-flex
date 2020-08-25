@@ -19,6 +19,7 @@ header nav ul li a {
 
 header nav ul li:last-child a {
   margin-right: 0;
+}
 
 h2, h3 {
   font-family: Verdana;
