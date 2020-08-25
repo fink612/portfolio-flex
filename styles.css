@@ -76,6 +76,19 @@ footer {
   text-align: center;
 }
 
+form {
+  padding-right: 8px;
+}
+
+form input, 
+form textarea {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+form textarea {
+  height: 160px;
+}
 a:link { color: blue; }
 a:visited { color: purple; }
 a:hover { color: red; }
