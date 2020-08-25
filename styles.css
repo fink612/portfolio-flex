@@ -4,7 +4,21 @@ header {
   font-family: Verdana;
   font-size: 40px;
   color: green;
+  background-color: gray;
 }
+
+header nav ul {
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+}
+  
+header nav ul li a {
+   margin: 0 20px 0 0;
+}
+
+header nav ul li:last-child a {
+  margin-right: 0;
 
 h2, h3 {
   font-family: Verdana;
