@@ -52,6 +52,11 @@ p {
   padding-left: 50px;
 }
 
+footer section .group {
+  justify-content: center;
+}
+  
+  
 @media all and (min-width: 800px) {
   p {
     font-size: 16px;
