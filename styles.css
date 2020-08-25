@@ -4,11 +4,13 @@ header {
   font-family: Verdana;
   font-size: 40px;
   color: green;
-  background-color: gray;
+  background-color: lightgray;
+  padding-top: 24px;
 }
 
 header nav ul {
   display: flex;
+  justify-content: center;
   padding-left: 0;
   list-style: none;
 }
