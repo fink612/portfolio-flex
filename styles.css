@@ -13,7 +13,7 @@ img {
 
 .group {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .item {
@@ -29,5 +29,8 @@ p {
 @media all and (min-width: 800px) {
   p {
     font-size: 16px;
+  }
+  .group {
+    flex-direction: row;
   }
 }    
