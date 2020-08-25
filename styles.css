@@ -28,7 +28,7 @@ img {
 
 p {
  font-size: 14px;
- font-family: Optima;
+ font-family: Optima, Arial;
 }
 
 @media all and (min-width: 800px) {
