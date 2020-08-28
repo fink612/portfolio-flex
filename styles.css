@@ -13,6 +13,7 @@ header nav ul {
   justify-content: center;
   padding: 0 0 20px 0;
   list-style: none;
+  flex-wrap: wrap;
 }
   
 header nav ul li a {
